@@ -5,7 +5,7 @@ War Competition at DEFCON 24.
 
 Here are the scores and rankings:
 
-|Place|Warrior|Author|Score|
+|Place|Warrior|Author|Score|h
 |1st|loui|lous|143|
 |disqualified|monkeyparty1|@mrdooz|131|
 |disqualified|Nooby|GradiusX|128|
