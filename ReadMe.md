@@ -8,5 +8,5 @@ http://koth.org/ for information about it.
 I copied a few programs and compiled pmars and started working on some of my own
 programs. This is a collection of stuffs loosely organized.
 
-The `pmars` files is a binary compiled on Elementary OS Freya. I assume it
+The `pmars` file is a binary compiled on Elementary OS Freya. I assume it
 should work on a Debian system with X11, but I'm not really sure.
