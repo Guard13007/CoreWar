@@ -11,7 +11,7 @@ Here are the scores and rankings:
 |disqualified|monkeyparty1|@mrdooz|131|
 |disqualified|Nooby|GradiusX|128|
 |disqualified|Uerig|@alt_bie|115|
-|2nd|Tangent|Tangen|112|
+|2nd|Tangent|Tangent|112|
 |6th|Zerg swar|Silas Baz|111|
 |7th|Destroy|RedEyes|110|
 |8th|simpl|talyian|109|
